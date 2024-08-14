@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>hello frame</title>
+</head>
+<frameset cols="20%,50%,30%" frameborder="1" border="2px">
+<frame src="file:///C:/Users/user/Desktop/courses%20with%20hyperlinks.html" name="firstframe" noresize />
+<frame src="file:///C:/Users/user/Desktop/table%20LAPTOP&PERIPHERALS.html" name="secondframe" noresize />
+<frame src="file:///C:/Users/user/Desktop/imGE.html" name="thirdframe">
+
+
+<noframes>
+<body>this frame does not support in your file</body>
+</noframes>
+
+
+</frameset>
+</html>

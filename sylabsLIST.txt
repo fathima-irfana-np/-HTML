@@ -1,0 +1,45 @@
+<html>
+<body>
+
+<u><b><center><h1>COMPUTER FUNDAMENTALS AND HTML</h1></u></b></center>
+<ol type="I">
+      <li>Concepts of Hardware And Software</li>
+  <ul type="square">
+      
+<li>Computer Languges</li>
+
+   <ul type="circle">
+    <li>language transilators</li>
+    <li>features of a good computer</li>   
+</ul>
+
+<li>Computer Organisations</li>
+
+<ul type="circle">
+<li>ven newman model</li>
+<li>input output unit</li>
+<li>storage unit</li>
+<li>contro unit</li>
+</ul>
+
+<li>Memory hierarchy</li>
+
+<ul type="circle">
+<li>primary storage devices</li>
+<li>secondary storage devices</li>
+</ul>
+</ul>
+<li>Number system and boolean algebra</li>
+<ul type="square">
+<li>number system</li>
+<ul type="circle">
+<li>decimal</li>
+<li>binary</li>
+<li>octal</li>
+	</ul></ul>											 
+</ol>
+
+
+
+</html>
+</body>

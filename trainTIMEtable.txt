@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>TIME TABLE</title>
+</head>
+<body>
+
+<center><h1><b><u><font color="red">TIRUR RAILWAY STATION</font></u></b></h1>
+<table border="1" bgcolor="grey" cellpadding="10" cellspacing="0">
+
+<tr>
+<th rowspan="2">TRAIN NAME</th>
+<th rowspan="2">SOURCES</th>
+<th rowspan="2">DESTINATION</th>
+<th colspan="2">TIME</th>
+</tr>
+
+<tr>
+<td>ARRIVAL</td>
+<td>DEPARTURE</td>
+</tr>
+
+<tr>
+<td>nagarcovil express</td>
+<td>calicut</td>
+<td>gujarat</td>
+<td>2:00</td>
+<td>2:08</td>
+</tr>
+<tr>
+<td>kochuveli express</td>
+<td>vaniyambalam</td>
+<td>cherunnavaya</td>
+<td>1:00</td>
+<td>1:05</td>
+</tr>
+<tr>
+<td>thriveni express</td>
+<td>chittur</td>
+<td>eranamkulam</td>
+<td>11:00</td>
+<td>11:04</td>
+</tr>
+<tr>
+<td>jan shathabdi</td>
+<td>mumbai</td>
+<td>chennai</td>
+<td>12:00</td>
+<td>12:05</td>
+</tr>
+
+<tr>
+<td>intercity express</td>
+<td>coimbature</td>
+<td>mangaloru</td>
+<td>9:00</td>
+<td>9:04</td>
+</tr>
+
+</center>
+
+</table>
+</body>
+</html>
