@@ -1,0 +1,18 @@
+<html>
+<head><title>lbs model degree college</title></head>
+<body>
+
+<h1><center>LBS MODEL DEGREE COLLEGE</h1></center>
+<p><u><b>Courses</u></b></p>
+
+<ul type="circle">
+<li><u><a href="file:///C:/Users/user/Desktop/linking%20bca.html">BCA</a></u></li>
+<li><u><a href="file:///C:/Users/user/Desktop/linking%20bsc%20CS.html">BSC COMPUTER SCIENCE</u></li></a>
+<li><a href="file:///C:/Users/user/Desktop/linking%20bcom.html"><u>BCOM</u></li></a>
+
+
+
+
+
+</body>
+</html>

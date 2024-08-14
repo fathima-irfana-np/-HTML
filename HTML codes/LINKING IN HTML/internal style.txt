@@ -1,0 +1,45 @@
+<html>
+<head>
+<title> internal style sheet </title>
+<style>
+
+
+body{margin:20px; padding:20px; border:2px dotted green; background-color:olive; color:white;}
+table{ background-color:brown; color:black; border:thin solid black;}
+td{border:thin solid black; background-color:red;}
+h1{color:purple; text-align:center;}
+h5{color:purple; text-align:center; font-style:italic}
+
+</style>
+</head>
+<body>
+<h1>ABC BOOKS</H1>
+<h5>stadium complex</h5>
+<br>
+<p>ABC books started in 1999 is considered as one of the top ISO certified book store in calicut.ABC books have huge collections of varieties of books.</p>
+
+<table border="1" cellspacing="0">
+<tr>
+<td>book name</td>
+<td>author</td>
+<td>categories</td>
+<td>price</td>
+</tr>
+<tr>
+<td>totochaan</td>
+<td>thotushkko koreyaanagi</td>
+<td>story</td>
+<td>60000</td>
+</tr>
+
+
+</table>
+
+
+
+
+
+
+
+</body>
+</html>

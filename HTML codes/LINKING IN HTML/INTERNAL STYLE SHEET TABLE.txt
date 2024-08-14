@@ -1,0 +1,13 @@
+<style>
+
+body{margin:20px; border:2px; padding:20px; background-color:olive; color:red;}
+table{background-color:yellow; color:blue; border:thin solid black;}
+h1{font-style:italic; color:magenta;}
+h3{font-style:castellar; color:pink;}
+td{background-color:orange; color:green; border:thin solid black;}
+</head>
+
+</style>
+
+
+body nte ullil table

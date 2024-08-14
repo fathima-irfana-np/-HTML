@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>hhhhh</title>
+</head>
+
+<frameset cols="20%,50%,30%" frameborder="1" border="2px">
+<frame src="file:///C:/Users/user/Desktop/my%20name.html" name="firstframe" noresize >
+<frame src="C:\Users\user\Desktop\HTML\laptop and peripherals.html" name="secondframe" noresize >
+<frame src="C:\Users\user\Desktop\HTML\photo album.html" name="thirdframe" >
+<noframes><body>does not support</body></noframes>
+</frameset>
+
+
+</html>
