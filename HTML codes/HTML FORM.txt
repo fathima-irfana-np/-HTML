@@ -1,0 +1,42 @@
+DOCTYPE html>
+<html>
+<head>
+<title>this is title</title>
+</head>
+<body>
+<form>
+User name:<input type="text" name="User name"/>
+</br><br/>
+
+Password:<input type="Password" name="Password"/>
+<br/><br/><br/>
+
+Address:<textarea rows="4" cols="44" name="address" id="address"></textarea>
+</br><br/>
+
+<input type="checkbox" name="players" id="male">
+<label for="male">male</label></br><br/>
+
+<input type="radio" name="players" id="female">
+<label for="female">female</label>
+</br><br/>
+
+<label for="games">games</label>
+<select name="games" id="games">
+<option value="football">football</option>
+<option value="cricket">cricket</option>
+<option value="chess">chess</option>
+<option value="tennis">tennis</option>
+<option value="cycling">cycling</option>
+</select>
+</br><br/>
+
+<label for="file-select">upload</label>
+<input type="file" name="upload" id="file-select">
+</br><br/>
+ <input type="submit" value="Submit">
+
+
+</form>
+</body>
+</html>

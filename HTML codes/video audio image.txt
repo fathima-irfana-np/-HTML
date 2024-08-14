@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>hello there</title>
+</head>
+<body>
+
+<img src="C:\Users\user\Pictures\Camera Roll\WIN_20220106_07_47_57_Pro.jpg" alt="image can not be displayed" height="49%" width="59%"/>
+
+<audio controls>
+<source src="C:\Users\user\Desktop\irfana\YOUR NEW MORNING ALARM.mp3" type="audio/mpeg">
+<source src="C:\Users\user\Desktop\irfana\aarmOGG.ogg" type="audio/ogg">
+your file is not supported.upgrade your system.
+</audio>
+
+<video controls>
+mukalile pole thanne yanu video yum cheyyandath....
+</video>
+
+
+</body>
+</html>
